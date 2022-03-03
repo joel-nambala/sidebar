@@ -1,2 +1,3 @@
-# sidebar
+# Sidebar
+
 Side bar navigation
